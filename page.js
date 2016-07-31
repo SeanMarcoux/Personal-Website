@@ -19,14 +19,13 @@ app.set('view engine', 'ejs');
 //app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
 
-/*app.get("/", function(req, res){
+app.get("/", function(req, res){
 	//res.send("<p>hey</p>");
 	//console.log(path.join(__dirname + '/project/schedulePage.php'));
 	//res.render(__dirname + '/project/theScheduler.html');
 	//res.render(__dirname + '/schedulePage.php');
 	//react.createElement('stuff')
 	reactDOM.render("<Main currentPage={3}/>");
-});*/
-app.get("/", reactDOM.render(<div>hey</div>))
+});
 
 app.listen(8080)
