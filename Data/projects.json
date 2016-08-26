@@ -5,7 +5,9 @@
 	"startDate": "January 2014",
 	"endDate": "May 2014",
 	"description": "A Java based 2D physics platformer game",
-	"imageURL": "new-physics-of-olix.png"
+	"breakDown": ["Used proper Object Oriented techniques to create a large Java application.",
+					"Created game from the ground up, implementing real world physics."],
+	"imageURLs": ["new-physics-of-olix.png", "olix-title-page.png", "olix-level-1.png", "olix-level-2.png", "olix-level-3.png", "olix-level-4.png"]
 },
 {
 	"name": "Sudoku Solver",
@@ -14,7 +16,9 @@
 	"startDate": "October 2014",
 	"endDate": "December 2014",
 	"description": "A Java application to solve any sudoku puzzle using real sudoku strategies",
-	"imageURL": "sudoku-solver.png"
+	"breakDown": ["Researched and implemented real Sudoku techniques in an efficient manner."],
+	"git": "https://github.com/SeanMarcoux/Sudoku-Solver",
+	"imageURLs": ["sudoku-solver.png"]
 },
 {
 	"name": "SOEN Schedule Builder",
@@ -23,6 +27,6 @@
 	"startDate": "January 2016",
 	"endDate": "May 2016",
 	"description": "A web application to generate schedules for SOEN students given a set of preferences. A heavy focus on documentation in this course",
-	"imageURL": "SOEN-schedule-builder.png"
+	"imageURLs": ["SOEN-schedule-builder.png"]
 }
 ]

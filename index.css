@@ -6,3 +6,7 @@ a {
      color:blue;
      text-decoration:underline;
 }
+#owl-carousel .item img{
+    width: 30%;
+    height: auto;
+}
