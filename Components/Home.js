@@ -26,13 +26,13 @@ var WelcomeImage = React.createClass({
 var Icons = React.createClass({
 	render() {
 		return (
-			<table style={{textAlign:'center'}}>
+			<table style={{textAlign:'center'}}><tbody>
 				<tr>
 					<td><CVIcon/></td>
 					<td><ProjectsIcon/></td>
 					<td><AboutIcon/></td>
 				</tr>
-			</table>
+			</tbody></table>
 		)
 	}
 });

@@ -18,6 +18,7 @@ var Links = React.createClass({
     return (
       <div style={{float:'right', marginRight:'2%'}}>
         <Link to="/projects" style={{color:'grey', padding:'5px'}}>Projects</Link>
+        <Link to="/work" style={{color:'grey', padding:'5px'}}>Work Experience</Link>
         <Link to="/cv" style={{color:'grey', padding:'5px'}}>CV</Link>
         <Link to="/about" style={{color:'grey', padding:'5px'}}>About Me</Link>
       </div>

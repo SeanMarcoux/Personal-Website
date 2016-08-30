@@ -7,6 +7,6 @@ a {
      text-decoration:underline;
 }
 #owl-carousel .item img{
-    width: 30%;
-    height: auto;
+    width: auto;
+    height: 50%;
 }

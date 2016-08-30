@@ -18,7 +18,7 @@
 	"description": "A Java application to solve any sudoku puzzle using real sudoku strategies",
 	"breakDown": ["Researched and implemented real Sudoku techniques in an efficient manner."],
 	"git": "https://github.com/SeanMarcoux/Sudoku-Solver",
-	"imageURLs": ["sudoku-solver.png"]
+	"imageURLs": ["sudoku-solver-1.png", "sudoku-solver-2.png"]
 },
 {
 	"name": "SOEN Schedule Builder",
@@ -27,6 +27,11 @@
 	"startDate": "January 2016",
 	"endDate": "May 2016",
 	"description": "A web application to generate schedules for SOEN students given a set of preferences. A heavy focus on documentation in this course",
-	"imageURLs": ["SOEN-schedule-builder.png"]
+	"breakDown": ["Created a client-server application with React on the front end and Laravel on the back end.",
+					"Managed communications between front and back end teams to ensure the team was on the same page.",
+					"Organized and delegated tasks to team members.",
+					"Created the majority of the multi-page UI from design, to implementation."],
+	"git": "https://github.com/SOEN341/Schedule-Builder",
+	"imageURLs": ["schedule-builder-login.png", "schedule-builder-preferences.png", "schedule-builder-schedule-1.png", "schedule-builder-schedule-2.png", "schedule-builder-account.png", "schedule-builder-admin.png", "schedule-builder-admin-sections.png"]
 }
 ]

@@ -2,15 +2,9 @@ import React from 'react'
 import { withRouter } from 'react-router'
 import Header from './Header'
 var projectsJson = require('json!../Data/projects.json')
-//import fs from 'fs';
-
-//import projects from '../Data/projects'
 
 export default React.createClass({
   render() {
-  	/*console.log(fs.toString('../Data/projects.json'))
-  	console.log(fs.readFileSync('../Data/projects.json'));*/
-  	//JSON.parse(projson)
   	console.log(projectsJson)
   	var index = 0
     return (
