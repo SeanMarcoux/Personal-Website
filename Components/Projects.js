@@ -28,10 +28,13 @@ var Project = withRouter(React.createClass({
 		return (
 			<table style={{marginLeft:'20%', width:'60%', border: '1px solid orange', borderCollapse:'collapse'}}><tbody>
 				<tr>
-					<td style={{border: '1px solid orange', width:'30%'}}><a onClick={this.goToProjectPage}><img src={"../Images/"+this.props.project.imageURLs[0]} style={{height:"300px", width:"300px"}}/></a></td>
+					<td style={{border: '1px solid orange', width:'30%'}}>
+						<a onClick={this.goToProjectPage}><img src={"../Images/"+this.props.project.imageURLs[0]} style={{height:"300px", width:"300px"}}/></a>
+					</td>
 					<td style={{paddingLeft: '20px', border: '1px solid orange'}}>
 						<div style={{color:color}}>{this.props.project.type}</div><br/>
 						Name: <a onClick={this.goToProjectPage}>{this.props.project.name}</a><br/>
+						{this.props.project.startDate} - {this.props.project.endDate}<br/>
 						Team of {this.props.project.teamSize}<br/>
 						Description: {this.props.project.description}
 					</td>

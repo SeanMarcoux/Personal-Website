@@ -4,6 +4,7 @@ import Home from './Home'
 import Projects from './Projects'
 import SpecificProject from './SpecificProject'
 import CV from './CV'
+import WorkExperiences from './WorkExperiences'
 
 export default React.createClass({
   render() {
@@ -13,6 +14,7 @@ export default React.createClass({
         <Route path="/projects" component={Projects}/>
         <Route path="/projects/:projectid" component={SpecificProject}/>
         <Route path="/cv" component={CV}/>
+        <Route path="/work" component={WorkExperiences}/>
       </Router>
     )
   }

@@ -1,0 +1,22 @@
+[{
+	"company": "Government of Canada",
+	"startDate": "May 2016",
+	"endDate": "August 2016",
+	"title": "Java Software Developer",
+	"imageURL": "canada-flag.svg",
+	"breakDown": ["Automated deployment of server code into Docker containers.",
+					"Deployed, configured, and ran health checks on Docker containers with Marathon.",
+					"Created Ansible scripts to install all required software on new VMs in the cluster.",
+					"Created improvements and bug fixes for a large Eclipse RCP application."]
+},
+{
+	"company": "Government of Canada",
+	"startDate": "September 2015",
+	"endDate": "December 2015",
+	"title": "Java Software Developer",
+	"imageURL": "canada-flag.svg",
+	"breakDown": ["Created improvements and bug fixes for a large Eclipse RCP application including modifications to legacy code and significant UI improvements.",
+					"Developed React web application to interact with the Eclipse project and significantly improve the time required to create and debug specific queries.",
+					"Contributed to all aspects of software development including extensive documentation, unit testing, and code review."]
+}
+]

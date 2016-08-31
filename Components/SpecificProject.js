@@ -1,10 +1,8 @@
 import React from 'react'
 import { withRouter } from 'react-router'
 import Header from './Header'
+import DetailedDescription from './Lists'
 var projectsJson = require('json!../Data/projects.json')
-//import fs from 'fs';
-
-//import projects from '../Data/projects'
 
 export default withRouter(React.createClass({
 	getInitialState() {
@@ -87,19 +85,4 @@ var Description = React.createClass({
 			return <a href={this.props.project.git}>Git Hub</a>
 		return "No Git Hub link available for this project"
 	}
-});
-
-var DetailedDescription = React.createClass({
-	render() {
-		var key=0;
-		return (
-			<ul>
-				{this.props.details.map(function(detail)
-		      		{return (
-		      			<li key={key++}>{detail}</li>
-		      		)}
-		      	)}
-			</ul>
-		)
-	},
 });
