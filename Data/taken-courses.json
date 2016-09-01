@@ -1,0 +1,114 @@
+[
+	{
+		"course": "Object Oriented Programming 1",
+		"description": "Basic data types, variables, expressions, assignments, control flow. Classes, objects, methods. Information hiding, public vs. private visibility, data abstraction and encapsulation. References. Arrays."
+	},
+	{
+		"course": "Object Oriented Programming 2",
+		"description": "Design of classes. Inheritance. Polymorphism. Static and dynamic binding. Abstract classes. Exception handling. File I/O. Recursion. Interfaces and inner classes. Graphical user interfaces. Generics. Collections and iterators."
+	},
+	{
+		"course": "Data Structures and Algorithms",
+		"description": "Abstract data types: stacks and queues, trees, priority queues, dictionaries. Data structures: arrays, linked lists, heaps, hash tables, search trees. Design and analysis of algorithms: asymptotic notation, recursive algorithms, searching and sorting, tree traversal, graph algorithms."
+	},
+	{
+		"course": "Operating Systems",
+		"description": "Fundamentals of operating system functionalities, design and implementation. Multiprogramming: processes and threads, context switching, queuing models and scheduling. Interprocess communication and synchronization. Principles of concurrency. Synchronization primitives. Deadlock detection and recovery, prevention and avoidance schemes. Memory management. Device management. File systems. Protection models and schemes."
+	},
+	{
+		"course": "Web Programming",
+		"description": "Internet architecture and protocols. Web applications through clients and servers. Markup languages. Client-side programming using scripting languages. Static website contents and dynamic page generation through server-side programming. Preserving state (client-side) in web applications."
+	},
+	{
+		"course": "System Hardware",
+		"description": "Processor structure, Data and Instructions, Instruction Set Processor (ISP) level view of computer hardware, assembly language level use. Memory systems — RAM and disks, hierarchy of memories. I/O organization, I/O devices and their diversity, their interconnection to CPU and Memory. Communication between computers at the physical level. Networks and computers."
+	},
+	{
+		"course": "Software Process",
+		"description": "Basic principles of software engineering. Introduction to software process models. Activities in each phase, including review activities. Working in teams: organization; stages of formation; roles; conflict resolution. Notations used in software documentation. How to review, revise, and improve software documentation."
+	},
+	{
+		"course": "Principles of Programming Languages",
+		"description": "Survey of programming paradigms: Imperative, functional, and logic programming. Issues in the design and implementation of programming languages. Declaration models: binding, visibility, and scope. Type systems, including static and dynamic typing. Parameter passing mechanisms. Hybrid language design."
+	},
+	{
+		"course": "Introduction to Computing",
+		"description": "Overview of computing systems. Problem solving and algorithms. Introduction to computer programming. Hardware, software and data storage, programming languages, data organization, program design and development."
+	},
+	{
+		"course": "Math for Computer Science",
+		"description": "Sets. Propositional logic and predicate calculus. Functions and relations. Elements of number theory. Proof techniques: direct proof, indirect proof, proof by contradiction, proof by induction."
+	},
+	{
+		"course": "Applied Ordinary Differential Equations",
+		"description": "This course introduces Engineering students to the theory and application of ordinary differential equations. Definition and terminology, initial-value problems, separable differential equations, linear equations, exact equations, solutions by substitution, linear models, orthogonal trajectories, complex numbers, form of complex numbers: powers and roots, theory: linear equations, homogeneous linear equations with constant coefficients, undetermined coefficients, variation of parameters, Cauchy-Euler equation, reduction of order, linear models: initial value, review of power series, power series solutions, theory, homogeneous linear systems, solution by diagonalisation, non-homogeneous linear systems. Eigenvalues and eigenvectors."
+	},
+	{
+		"course": "Calculus 1",
+		"description": "Functional notation. Differentiation of polynomials. The power, product, quotient, and chain rules. Differentiation of elementary functions. Implicit differentiation. Higher derivatives. Maxima and minima. Applications: tangents to plane curves, graphing, related rates. Approximations using the differential. Antiderivatives, definite integrals, area."
+	},
+	{
+		"course": "Calculus 2",
+		"description": "Techniques of integration: substitutions, integration by parts, partial fractions. Improper integrals. Physical applications of the definite integral. Infinite series: tests for convergence. Power series, Taylor's theorem."
+	},
+	{
+		"course": "Applied Advanced Calculus",
+		"description": "This course introduces Engineering students to the theory and application of advanced calculus. Functions of several variables, partial derivatives, total and exact differentials, approximations with differentials. Tangent plane and normal line to a surface, directional derivatives, gradient. Double and triple integrals. Polar, cylindrical, and spherical coordinates. Change of variables in double and triple integrals. Vector differential calculus; divergence, curl, curvature, line integrals, Green's theorem, surface integrals, divergence theorem, applications of divergence theorem, Stokes' theorem."
+	},
+	{
+		"course": "Linear Algebra",
+		"description": "Algebra and geometry of vectors, dot and cross products, lines and planes. System of equations, operations on matrices, rank, inverse, quadratic form, and rotation of axes."
+	},
+	{
+		"course": "Probability and Statistics in Engineering",
+		"description": "Axioms of probability theory. Events. Conditional probability. Bayes theorem. Random variables. Mathematical expectation. Discrete and continuous probability density functions. Transformation of variables. Probabilistic models, statistics, and elements of hypothesis testing (sampling distributions and interval estimation). Introduction to statistical quality control. Applications to engineering problems."
+	}
+	{
+		"course": "Numerical Methods in Engineering",
+		"description": "Roots of algebraic and transcendental equations; function approximation; numerical differentiation; numerical integration; solution of simultaneous algebraic equations; numerical integration of ordinary differential equations."
+	},
+	{
+		"course": "Principles of Electrical Engineering",
+		"description": "Fundamentals of electric circuits: Kirchoff’s laws, voltage and current sources, Ohm’s law, series and parallel circuits. Nodal and mesh analysis of DC circuits. Superposition theorem, Thevenin and Norton Equivalents. Use of operational amplifiers. Transient analysis of simple RC, RL and RLC circuits. Steady state analysis: Phasors and impedances, power and power factor. Single and three phase circuits. Magnetic circuits and transformers. Power generation and distribution."
+	},
+	{
+		"course": "General Chemistry",
+		"description": "Stoichiometry, states of matter, atomic structure, electron structure of atoms, the periodic table, periodic properties, bonding, solids. Lectures and laboratory."
+	},
+	{
+		"course": "Mechanics",
+		"description": "Kinematics, Newton's laws of motion. Statics, dynamics. Conservation of momentum and energy. Rotational motion. Periodic motion."
+	},
+	{
+		"course": "Waves, Optics, and Modern Physics",
+		"description": "Simple harmonic motion. Wave propagation. Superposition. Stationary waves. Doppler effect. Interference. Diffraction. Photoelectric effect. Compton effect. Bohr's atom. Radioactivity, fission, fusion."
+	},
+	{
+		"course": "Electricity and Magnetism",
+		"description": "Electrical charge and Coulomb's law. Electrical field and potential. Capacity, steady state, and transient currents. Electromagnetic induction and alternating currents."
+	},
+	{
+		"course": "Materials Science",
+		"description": "Relationships between properties and internal structure, atomic bonding; molecular, crystalline and amorphous structures, crystalline imperfections and mechanisms of structural change. Microstructures and their development from phase diagrams. Structures and mechanical properties of polymers and ceramics. Thermal, optical, and magnetic properties of materials."
+	},
+	{
+		"course": "Theromodynamics 1",
+		"description": "Basic principles of thermodynamics and their application to various systems composed of pure substances and their homogeneous non-reactive mixtures. Simple power production and utilization cycles."
+	},
+	{
+		"course": "Perspective on Canadian Business",
+		"description": "This course is designed to review the historical development of business in Canada and to examine the relationships between the firm (management) and the owners, the employees, the customers, the government, and the community. Further, it studies some of the problems facing Canadian business today: the dehumanizing aspect, pollution problems, large vs. small firms, foreign ownership, and competition."
+	},
+	{
+		"course": "Technical Writing and Communication",
+		"description": "Technical writing form and style. Technical and scientific papers, abstracts, reports. Library research and referencing methods for engineers and computer scientists. Technical communication using information technology: document processing software, computer-assisted presentation, analysis and design of web presentation, choice and use of appropriate tools. Students will prepare an individual major report and make an oral presentation."
+	},
+	{
+		"course": "Professional Practice and Responsibility",
+		"description": "Health and safety issues for engineering projects: Quebec and Canadian legislation; safe work practices; general laboratory safety common to all engineering disciplines, and specific laboratory safety pertaining to particular engineering disciplines. Review of the legal framework in Quebec, particularly the Professional Code and the Engineers Act, as well as professional ethics."
+	},
+	{
+		"course": "Sustainable Development and Environmental Stewardship",
+		"description": "Introduction to the concept of sustainable development and the approaches for achieving it. Relationships with economic, social, and technological development. Methods for evaluating sustainability of engineering projects, including utilization of relevant databases and software. Impact of engineering design and industrial development on the environment. Case studies."
+	},
+]
