@@ -62,7 +62,7 @@
 	{
 		"course": "Probability and Statistics in Engineering",
 		"description": "Axioms of probability theory. Events. Conditional probability. Bayes theorem. Random variables. Mathematical expectation. Discrete and continuous probability density functions. Transformation of variables. Probabilistic models, statistics, and elements of hypothesis testing (sampling distributions and interval estimation). Introduction to statistical quality control. Applications to engineering problems."
-	}
+	},
 	{
 		"course": "Numerical Methods in Engineering",
 		"description": "Roots of algebraic and transcendental equations; function approximation; numerical differentiation; numerical integration; solution of simultaneous algebraic equations; numerical integration of ordinary differential equations."
@@ -110,5 +110,5 @@
 	{
 		"course": "Sustainable Development and Environmental Stewardship",
 		"description": "Introduction to the concept of sustainable development and the approaches for achieving it. Relationships with economic, social, and technological development. Methods for evaluating sustainability of engineering projects, including utilization of relevant databases and software. Impact of engineering design and industrial development on the environment. Case studies."
-	},
+	}
 ]

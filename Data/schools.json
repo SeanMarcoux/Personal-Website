@@ -1,0 +1,19 @@
+[{
+	"name": "Concordia University",
+	"program": "Software Engineering",
+	"startDate": "May 2016",
+	"endDate": "August 2016",
+	"imageURL": "concordia-logo.jpg",
+	"gradeType": "GPA",
+	"grade": "4.0/4.3"
+},
+{
+	"name": "Champlain College St-Lambert",
+	"program": "Government of Canada",
+	"startDate": "September 2015",
+	"endDate": "December 2015",
+	"imageURL": "champlain-logo.gif",
+	"gradeType": "R-score",
+	"grade": "??????/50 (but I mean if you have more than 35 then you're some nutso and need to get a life anyways amirite)"
+}
+]

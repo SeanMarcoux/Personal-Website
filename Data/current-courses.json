@@ -1,0 +1,22 @@
+[
+	{
+		"course": "Sofware Architecture and Design I",
+		"description": "From requirements to design to implementation. Planned vs. evolutionary design and refactoring. Model-driven design and Unified Modelling Language (UML). Structural and behavioural design descriptions and specifications. General and domain-specific design principles, patterns and idioms. Object-oriented design concepts such as interfaces vs. abstract types, polymorphism, generics, and delegation vs. subclassing. Introduction to software architecture (styles and view models). Design quality. Design rationale. Design methodologies (e.g. based on responsibility assignment). Test-driven development."
+	},
+	{
+		"course": "Pattern Recognition",
+		"description": "Preprocessing. Feature extraction and selection. Similarity between patterns and distance measurements. Syntactic and statistical approaches. Clustering analysis. Bayesian decision theory and discriminant functions. Neural networks and machine learning. Applications. Project."
+	},
+	{
+		"course": "Introduction to Theoretical Computer Science",
+		"description": "Finite state automata and regular languages. Push-down automata and context-free languages. Pumping lemmas. Applications to parsing. Turing machines. Unde­cidability and decidability."
+	},
+	{
+		"course": "Software Requirements and Specifications",
+		"description": " Requirements engineering. Functional and non-functional requirements. Traceability. Test generation. Formal and informal specifications. Formal specification languages. Reasoning with specifications. Correctness issues. Verification."
+	},
+	{
+		"course": "Software Management, Measurement, and Quality Control",
+		"description": "Organization of large software development. Roles of team members, leaders, managers, stakeholders, and users. Tools for monitoring and controlling a schedule. Financial, organizational, human, and computational resources allocation and control. Project and quality reviews, inspections, and walkthroughs. Risk management. Communication and collaboration. Cause and effects of project failure. Project management via the Internet. Quality assurance and control."
+	}
+]

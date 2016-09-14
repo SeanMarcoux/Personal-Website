@@ -12,6 +12,8 @@
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.0",
+	"react-bootstrap": "^0.30.3",
+	"react-pdf": "^0.0.10",
     "json-loader": "^0.5.4",
     "jquery": "^3.1.0",
     "simple-react-pdf": "^1.0.6"
